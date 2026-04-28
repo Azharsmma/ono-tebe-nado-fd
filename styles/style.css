@@ -1,0 +1,9 @@
+.container{ /*Базовый класс*/
+    padding: 90px 50px;
+    outline: 1px solid red;
+}
+
+.container_type_small{
+    padding-top: 133px;
+    padding-bottom: 139px;
+}
